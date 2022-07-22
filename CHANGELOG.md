@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.1.1](https://github.com/AcademiaBinaria/academia-binaria-site/compare/v3.1.0...v3.1.1) (2022-07-22)
+
+
+### Bug Fixes
+
+* change trainingIT links ([f4af1ac](https://github.com/AcademiaBinaria/academia-binaria-site/commit/f4af1acba9db49aab46ac043219c771306b678cf))
+
 ## [3.1.0](https://github.com/AcademiaBinaria/academia-binaria-site/compare/v3.0.1...v3.1.0) (2021-07-08)
 
 

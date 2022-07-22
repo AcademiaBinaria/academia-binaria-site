@@ -34,7 +34,7 @@ Si quieres <b>visitarnos</b> ven a:
 
 <hr />
 
-<p>Para temas comerciales de cursos presenciales con <strong>Vita Digital S.L.</strong>:  </p>
+<p>Para temas comerciales de cursos presenciales con <strong>Vitae Digital S.L.</strong>:  </p>
 
 <blockquote>
   <p> Email: <span itemprop="email">vitae(at)vitaedigital.com</span> </p>

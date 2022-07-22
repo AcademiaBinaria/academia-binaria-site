@@ -29,7 +29,7 @@ date: 2019-03-20 10:07:39
 
 #### - Ayuda del profesor
 
-## [Haz clic aquí e infórmate más](https://trainingit.es//curso-angular-escalable/index.php?promo=angular.builders)
+## [Haz clic aquí e infórmate más](https://www.trainingit.es/index.php/producto/curso-angular-avanzado/)
 
 > Con diploma acreditativo, bolsa de trabajo y bonificables por Fundae.
 > -- <cite>Aprende online con Alberto Basalo</cite>

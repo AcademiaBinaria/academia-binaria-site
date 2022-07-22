@@ -5,7 +5,7 @@ updated: '2019-04-24 14:07:39'
 date: 2019-03-20 10:07:39
 ---
 
-[Implantación de buenas prácticas en desarrollos empresariales con Angular.](https://www.trainingit.es/curso-angular-avanzado/?promo=angular.builders)
+[Implantación de buenas prácticas en desarrollos empresariales con Angular.](https://www.trainingit.es/index.php/producto/curso-angular-avanzado/)
 
 # Angular Business
 

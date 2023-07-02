@@ -1,7 +1,5 @@
 {
   "workbench.colorCustomizations": {
-    "editorError.foreground": "#BF616A",
-    "editorWarning.foreground": "#D08770",
     "titleBar.activeBackground": "#88c0d0",
     "titleBar.activeForeground": "#15202b",
     "titleBar.inactiveBackground": "#88c0d099",
@@ -18,7 +16,8 @@
     "statusBarItem.hoverBackground": "#63adc2",
     "sash.hoverBorder": "#add3de",
     "statusBarItem.remoteBackground": "#88c0d0",
-    "statusBarItem.remoteForeground": "#15202b"
+    "statusBarItem.remoteForeground": "#15202b",
+    "commandCenter.border": "#15202b99"
   },
   "spellright.language": [
     "en",
